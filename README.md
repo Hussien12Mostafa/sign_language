@@ -16,7 +16,7 @@ pip install tensorflow keras matplotlib numpy pandas opencv-python
 
 # Dataset
 The "Sign Language MNIST" dataset contains grayscale images of sign language gestures. The training set consists of 27,455 images, and the test set contains 7,172 images. Each image is of size 28x28 pixels.
-
+https://www.kaggle.com/datasets/datamunge/sign-language-mnist
 # Code Overview
 Data Preprocessing: The code loads the dataset and preprocesses the images by scaling their pixel values to the range [0, 1].
 
